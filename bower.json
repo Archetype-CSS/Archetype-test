@@ -1,8 +1,8 @@
 {
-  "name": "Archetype-[NAME]",
+  "name": "Archetype-test",
   "version": "0.1.0",
   "author": "Sam Ashley",
-  "main": "[_PARTIAL-NAME].scss",
+  "main": "test/_test.scss",
   "ignore": [
     ".*",
     "CHANGELOG.md",
