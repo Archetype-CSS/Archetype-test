@@ -1,4 +1,4 @@
-# Archetype-test [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# Archetype-test [![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-test.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-test) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 Template for building test-driven utilities, objects, and components for Archetype.
 
