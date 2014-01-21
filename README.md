@@ -1,21 +1,18 @@
-Archetype-test
-==============
+# Archetype-test [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-Structure for visually testing Archetype utilities, objects, and components
-
-# [Utility/Object/Component Name]
-
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-
-[Utility/Object/Component description]
+Template for building test-driven utilities, objects, and components for Archetype.
 
 ## Installation
   * [Bower](http://bower.io): {{coming soon}}
-  * Git: `git clone [git url]`
+  * Git: `git clone https://github.com/Archetype-CSS/Archetype-test.git`
 
 ## Use
-  * [Utility/Object/Component classes and descriptions]
-  * ...
+  * `test-title--structure` - structure styles for the test title
+  * `test-title--skin` - skin styles for the test title
+  * `test-description--structure` - structure styles for the test description
+  * `test-description--skin` - skin styles for the test description
+  * `test--structure` - structure styles for the test
+  * `test--skin` - skin styles for the test
 
 ### Browser Suport
   * Chrome (latest)
