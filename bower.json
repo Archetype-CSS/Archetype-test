@@ -1,0 +1,12 @@
+{
+  "name": "Archetype-[NAME]",
+  "version": "0.1.0",
+  "author": "Sam Ashley",
+  "main": "[_PARTIAL-NAME].scss",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "package.json",
+    "/test"
+  ]
+}
