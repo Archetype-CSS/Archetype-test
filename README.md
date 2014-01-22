@@ -17,7 +17,7 @@ Template for building test-driven utilities, objects, and components for Archety
 ## Run the Test Locally
 
 ```bash
-git clone
+git clone https://github.com/Archetype-CSS/Archetype-test.git
 cd Archetype-test
 npm install
 grunt
