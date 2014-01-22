@@ -14,6 +14,15 @@ Template for building test-driven utilities, objects, and components for Archety
   * `test--structure` - structure styles for the test
   * `test--skin` - skin styles for the test
 
+## Run the Test Locally
+
+```bash
+git clone
+cd Archetype-test
+npm install
+grunt
+```
+
 ### Browser Suport
   * Chrome (latest)
   * Firefox (4+)
