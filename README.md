@@ -1,10 +1,10 @@
-# Archetype-test [![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-test.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-test) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# [module.name] [![Build Status](https://secure.travis-ci.org/Archetype-CSS/module-name.png?branch=master)](http://travis-ci.org/Archetype-CSS/module-name) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-Template for building test-driven utilities, objects, and components for Archetype.
+Boiler plate starter kit for building test-driven Archetype modules.
 
 ## Installation
-  * [Bower](http://bower.io): {{coming soon}}
-  * Git: `git clone https://github.com/Archetype-CSS/Archetype-test.git`
+  * [Bower](http://bower.io): `module.name`
+  * Git: `git clone https://github.com/Archetype-CSS/module-name.git`
 
 ## Use
   * `test-title--structure` - structure styles for the test title
@@ -17,8 +17,8 @@ Template for building test-driven utilities, objects, and components for Archety
 ## Run the Test Locally
 
 ```bash
-git clone https://github.com/Archetype-CSS/Archetype-test.git
-cd Archetype-test
+git clone https://github.com/Archetype-CSS/module-name.git
+cd module-name
 npm install
 grunt
 ```

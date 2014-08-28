@@ -1,8 +1,8 @@
 {
-  "name": "Archetype-test",
+  "name": "[module.name]",
   "version": "0.1.0",
   "author": "Sam Ashley",
-  "main": "test/_test.scss",
+  "main": "_[module.name].scss",
   "ignore": [
     ".*",
     "CHANGELOG.md",
